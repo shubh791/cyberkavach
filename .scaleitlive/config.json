@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "project": {
+    "name": "cyberkavach",
+    "framework": "nextjs",
+    "type": "custom"
+  },
+  "animationProfile": "advanced",
+  "skills": [
+    "mobile-first",
+    "ui-ux-pro",
+    "gpt-taste",
+    "seo",
+    "performance",
+    "accessibility"
+  ]
+}
